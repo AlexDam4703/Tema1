@@ -1,0 +1,11 @@
+public class CambioMoneda {
+static final double CAMBIO_DOLAR=1.88246;
+static fi
+	ublic static void main(String [] args){
+	CambioDolaresAEuros(15);
+	}
+	public static void CambioDolaresAEuros ( double euros){
+	System.out.println (euros + "€ son: " + euros*CAMBIO_DOLAR);
+	}
+}
+

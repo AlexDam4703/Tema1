@@ -1,0 +1,8 @@
+#ignora los binarios
+*.class
+
+#ignora copias de seguirdad
+*.swp
+
+#ignora la documentacion
+*doc
